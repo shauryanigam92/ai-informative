@@ -1,0 +1,25 @@
+<html>
+<head>
+<TITLE> ARTIFICIAL INTELLIGENCE - PATTERN RECOGNITION   </TITLE>
+</HEAD>
+<style>
+P{FONT-SIZE:28px;}
+h3{text-align:center;}
+</style>
+<BODY BGCOLOR="BLACK">
+<FONT COLOR="RED" FACE="Copperplate Gothic" SIZE="50">
+<B><U><h3 > ARTIFICIAL INTELLIGENCE- PATTERN RECOGNITION </H3><U></B>
+</FONT>
+<P><FONT COLOR="WHITE" FACE="Script MT">
+<IMG SRC="AI PR.JPG" HEIGHT="200PX" WIDTH="400PX" STYLE="FLOAT:RIGHT;">
+This type of software comprises of a camera and software which together identify repetitive patterns and establish connections between the patterns stored in the database and the perceived patterns. Facial recognition software, video surveillance cameras, fingerprint identification and automatic voice recognition software are some examples of pattern recognition software.
+<BR>
+</FONT><FONT COLOR="RED" FACE="Copperplate Gothic" SIZE="15">
+<BR> <U>DIFFICULTY IN READING ? LISTEN AUDIOS-<U><br>
+ENGLISH TRANSLATION <br>
+<AUDIO SRC="ENGLISH TTS AI PR.mp3" controls></audio><br>
+HINDI TRANSLATION<br>
+<AUDIO SRC="HINDI TTS AI PR.mp3" controls></audio></FONT>
+</P>
+</BODY>
+</HTML>

@@ -1,0 +1,27 @@
+<html>
+<head>
+<TITLE> ARTIFICIAL INTELLIGENCE -EXPERT SYSTEM  </TITLE>
+</HEAD>
+<style>
+P{FONT-SIZE:28px;}
+h4{text-align:center;}
+</style>
+<BODY BGCOLOR="BLACK">
+<FONT COLOR="RED" FACE="Copperplate Gothic" SIZE="50">
+<B><U><h4 > ARTIFICIAL INTELLIGENCE- EXPERT SYSTEM </H4><U></B>
+</FONT>
+<P><FONT COLOR="WHITE" FACE="Script MT">
+<IMG SRC="AI ES 1.PNG" HEIGHT="200PX" WIDTH="400PX" STYLE="FLOAT:RIGHT;">
+<P>
+It can be defined as a communicating computer program that can solve problems which would otherwise require human assistance. These programs replicate the reasoning process of experts in certain areas. For example, PROSPECTOR was the first expert system that analysed geological data to identify and locate mineral deposits.
+<BR> <B><U>DIFFICULTY IN READING ? LISTEN THESE AUDIOS-<U></B><br>
+</FONT><FONT COLOR="RED" FACE="Copperplate Gothic" SIZE="15">
+<BR> <U>DIFFICULTY IN READING ? LISTEN AUDIOS-<U><br>
+ENGLISH TRANSLATION <br>
+<AUDIO SRC="ENGLISH TTS AI ES.mp3" controls></audio><br>
+HINDI TRANSLATION<br>
+<AUDIO SRC="HINDI TTS AI ES.mp3" controls></audio>
+</FONT>
+</P>
+</BODY>
+</HTML>
